@@ -1,10 +1,4 @@
-var products = [{
-        type: 'web',
-        name: 'Best Burger',
-        des: 'redesign ui',
-        img: './image/product/bestburger.png',
-        link: 'https://www.1burger.ga/'
-    },
+var products = [
     {
         type: 'ui',
         name: 'ZingMP3',
