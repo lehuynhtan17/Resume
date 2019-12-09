@@ -1,9 +1,9 @@
 var products = [{
         type: 'web',
-        name: '',
-        des: '',
-        img: '',
-        link: ''
+        name: 'Best Burger',
+        des: 'redesign ui',
+        img: './image/product/bestburger.png',
+        link: 'https://www.1burger.ga/'
     },
     {
         type: 'ui',
