@@ -1,4 +1,10 @@
-var products = [
+var products = [{
+        type: 'web',
+        name: '',
+        des: '',
+        img: '',
+        link: ''
+    },
     {
         type: 'ui',
         name: 'ZingMP3',
